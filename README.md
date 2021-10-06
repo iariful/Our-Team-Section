@@ -7,5 +7,7 @@
 - VS CODE
 
 ## Live This Project 👍
+|  #  |                                                           Project                                                           |                                           Live Demo                                           |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| 01  | Our Team Section     | [Live Demo](https://iariful.github.io/Our-Team-Section/)
 
-![image(team)](https://user-images.githubusercontent.com/82101597/134759344-18ceb322-2e65-406d-8ddd-950b7f600d12.gif)
